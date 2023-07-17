@@ -57,15 +57,15 @@ section,
 video {
   margin: 0;
   padding: 0;
-
   border: 0;
   font-size: 100%;
   font: inherit;
-
   vertical-align: baseline;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+     -moz-text-size-adjust: none;
+          text-size-adjust: none;
 }
 
 footer,
@@ -105,4 +105,4 @@ table {
 
 input {
   border-radius: 0;
-}
+}/*# sourceMappingURL=main.css.map */
