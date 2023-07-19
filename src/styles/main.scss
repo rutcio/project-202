@@ -1,23 +1,22 @@
-@import "./normalize";
+@import "./reset";
 @import "./variables";
 @import "./mixins";
 
 @import "./default";
-
 @import "./btn";
 @import "./box";
-@import "./swiper";
-@import "./cards";
 @import "./keyframes";
+@import "./swiper";
+
 @import "./line";
 @import "./link";
 @import "./lists";
 @import "./modal";
-@import "./parallax";
-@import "./spinner";
 @import "./text";
 
+
 @import "./navbar";
+@import "./cards";
 
 @import "./header";
 @import "./sections";
